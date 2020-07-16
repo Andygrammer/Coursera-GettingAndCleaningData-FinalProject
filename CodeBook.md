@@ -91,5 +91,5 @@
 [64] "FrequencyDomain.BodyAccelerationJerkMagnitude-std()"    
 [65] "FrequencyDomain.BodyAngularSpeedMagnitude-mean()"       
 [66] "FrequencyDomain.BodyAngularSpeedMagnitude-std()"        
-[67] "FrequencyDomain.BodyAngularAccelerationMagnitude-mean()"
+[67] "FrequencyDomain.BodyAngularAccelerationMagnitude-mean()" </br>
 [68] "FrequencyDomain.BodyAngularAccelerationMagnitude-std()" 
